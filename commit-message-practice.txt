@@ -1,2 +1,3 @@
 Commit message practice file
 Small change 1
+Small change 2
