@@ -1,3 +1,3 @@
 Line 1: Focus Bear Git conflict practice
-Line 2: Edited on main
+Line 2: Edited on conflict-branch
 Line 3: End
