@@ -19,12 +19,28 @@ The repository is organised by topic so that each task is easy to locate and rev
 .
 ├── LICENSE
 ├── README.md
+├── architecture-diagram
+│   ├── Helpers, Login Items & Privileged Tools_ Focus-Bear (1).png
+│   └── Helpers, Login Items & Privileged Tools_ Focus-Bear.pdf
 ├── clean-code
+│   ├── clean-code-principles
+│   │   ├── clean.swift
+│   │   ├── clean_code.md
+│   │   └── messy.swift
 │   └── error-handling
 │       ├── badFunction.swift
 │       ├── clean_code.md
 │       └── improvedFunction.swift
+├── commit-message-practice.txt
+├── filesystem
+│   └── apfs-structure
+│       ├── APFS Structure Diagram.png
+│       ├── DiskUtility_APFS.png
+│       └── apfs_structure.md
 ├── git-tests
+│   ├── merge-conflicts
+│   │   ├── conflict.txt
+│   │   └── merge_conflicts_report.md
 │   └── testfile.txt
 ├── networking
 │   └── week4-post-request
@@ -41,8 +57,7 @@ The repository is organised by topic so that each task is easy to locate and rev
 │           └── week4-session-1.txt
 └── zsh-test
 
-14 directories, 10 files
-
+19 directories, 21 files
 ```
 
 Each folder represents a **specific learning area or task group**.  
